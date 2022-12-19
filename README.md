@@ -1,2 +1,2 @@
 # datahandling
-this repository includes data handling scripts 
+This repository includes data handling scripts 
